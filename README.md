@@ -138,7 +138,7 @@ This project demonstrates that:
 ## 🔗 Links
 
 GitHub Repository:  
-<https://github.com/YOUR_USERNAME/gauss-village>
+<https://github.com/himalcodes/gauss-village>
 
 ***
 
